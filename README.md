@@ -1,1 +1,1 @@
-# graphql-webinar
+# graphql-webinar-boilerplate
